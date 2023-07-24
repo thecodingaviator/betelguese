@@ -1,5 +1,5 @@
 export const metadata = {
-  title: 'Home - Open PRO',
+  title: 'Pebbl International',
   description: 'Page description',
 }
 
@@ -14,8 +14,6 @@ export default function Home() {
     <>
       <Hero />
       <Features />
-      <Zigzag />
-      <Testimonials />
       <Newsletter />
     </>
   )
